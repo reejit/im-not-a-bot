@@ -5,6 +5,9 @@
 Sections
 ===============
 
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reejit/im-not-a-bot.git)
+
+
 - `Introduction`_
 
 - `Installing`_
