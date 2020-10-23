@@ -1,19 +1,19 @@
 # insert your token below
-token: your token here
+token: 1356581345:AAGrrosZDRoDjQtPAb_OCLomLIy0COQvctc
 
 # change the time before the user gets kicked (in seconds)
-time_kick: 30
+time_kick: 60
 
 # message that is sent to the user that joins
 joins_text: Welcome {}, if you're not a bot, tap the button below, 
-            otherwise you will be kicked in 30 seconds.
+            otherwise you will be kicked in 1 minute
 
 # text in the button attached to the first message
-button: I'M NOT A BOT
+button: I'M NOT A FUCKING BOT
 
 # the first message will be changed with this
-notbot_text: Ok {}, you're not a bot.
+notbot_text: Ok {}, you're not a fucking bot.
 
 # text prompted if they press the button
 # and they aren't the one who joined the group
-not4u_text: This button is not for you.
+not4u_text: This button is not for you fucker.
